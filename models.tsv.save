@@ -1,0 +1,3 @@
+
+identifier	name	path	string	default	tags	algo	size
+ruscorpora_upos_skipgram_300_5_2018	Russian National Corpus	/var/www/model/model.bin	similar4	False	True	word2vec	250000000
